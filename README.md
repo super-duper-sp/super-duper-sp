@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Shubham Patidar</h1>
-<h3 align="center">Learn By Doing</h3>
-<i>I Hear,I Forget
-   I See,I Remember
-   I DO,I Understand</i>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=super-duper-sp&label=Profile%20views&color=0e75b6&style=flat" alt="super-duper-sp" /> </p>
+<h3 align="center">
+ Shubham Patidar
+  <p align="center" >
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?&lines=I%20Hear%20,%20I%20Forget.....;I%20See%20,%20I%20Remember.....;I%20Do%20,%20I%20Understand.....;&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</h3>
+
+
+
+
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <h3 align="center">A Passionate Self Taught Programmer From India</h3>
 
 
 - 🔭 I’m currently working on 
-  **Protfolio Website**
+  **Portfolio Website**
 **And**
   **Startup Website (self)**
 
@@ -40,12 +43,27 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=super-duper-sp&show_icons=true&locale=en&layout=compact" alt="super-duper-sp" /></p>
+**Github Stats:**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=super-duper-sp&show_icons=true&locale=en" alt="super-duper-sp" /></p>
+<p align="left">
+  <img width="500" height="320" src="https://github-readme-stats.vercel.app/api?username=super-duper-sp&show_icons=true&theme=dracula&count_private=true" />
+</p>
+<p align = "right">
+  <img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=super-duper-sp&theme=dracula" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=super-duper-sp&" alt="super-duper-sp" /></p>
+<p align="center"> 
+  <img width="%" src="https://github-readme-streak-stats.herokuapp.com/?user=super-duper-sp&theme=dracula" />
+</p>
 
+
+
+
+## 📘 My top open source projects
+
+<p align="left">
+
+</p>
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 
