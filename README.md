@@ -4,6 +4,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?&lines=I%20Hear%20,%20I%20Forget.....;I%20See%20,%20I%20Remember.....;I%20Do%20,%20I%20Understand.....;&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=super-duper-sp&label=Profile%20views&color=0e75b6&style=flat" alt="super-duper-sp" /> </p>
+
 
 
 
