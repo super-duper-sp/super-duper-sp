@@ -8,7 +8,7 @@
 <h3 align="center">
  
   <p align="center" >
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?&lines=I%20Hear%20,%20I%20Forget.....;I%20See%20,%20I%20Remember.....;I%20Do%20,%20I%20Understand.....;&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=35"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?&lines=I%20Hear%20,%20I%20Forget.....;I%20See%20,%20I%20Remember.....;I%20Do%20,%20I%20Understand.....;&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=25"></a>
 </h3>
 <hr>
 
