@@ -1,12 +1,16 @@
 <h3 align="center">
  Shubham Patidar
-  <p align="center" >
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?&lines=I%20Hear%20,%20I%20Forget.....;I%20See%20,%20I%20Remember.....;I%20Do%20,%20I%20Understand.....;&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <p align="left"> <img width="150" height="25" src="https://komarev.com/ghpvc/?username=super-duper-sp&label=Profile%20views&color=0e75b6&style=flat" alt="super-duper-sp" /> </p>
+
 </h3>
+<hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=super-duper-sp&label=Profile%20views&color=0e75b6&style=flat" alt="super-duper-sp" /> </p>
-
-
+<h3 align="center">
+ 
+  <p align="center" >
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?&lines=I%20Hear%20,%20I%20Forget.....;I%20See%20,%20I%20Remember.....;I%20Do%20,%20I%20Understand.....;&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=35"></a>
+</h3>
+<hr>
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
@@ -47,34 +51,29 @@
 
 
 
+### ✨ GitHub Stats
 
-<div align="center">
-
-<p align="left">
-<img width="430" height="250" align="left" src="https://github-readme-stats.vercel.app/api?username=super-duper-sp&show_icons=true&theme=dracula&count_private=true" />
-</p>
- 
- <p align="right"> 
-  <img width="430" height="250" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=super-duper-sp&theme=dracula" />
-</p>
-   
- </div>
+<a href="https://github.com/super-duper-sp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=super-duper-sp&show_icons=true&theme=dracula&count_private=true" />
+  <img align="right" width="400" height="230" src="http://github-readme-streak-stats.herokuapp.com?user=super-duper-sp&theme=merko&hide_border=true&sideNums=DD2727&currStreakLabel=DD2727" alt=“super-duper-sp” />
+</a>
+<br/>
 
 
+<a href="https://github.com/super-duper-sp">
+   <img width="500" height="350" align="left" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true"  alt="CoDiNg RocKs"  width="550"/>
+ 
+ <img align="right" width="400" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=super-duper-sp&show_icons=true&locale=en&layout=compact" alt=“super-duper-sp”/>
+</a>
+<br/>
 
-<div align="center">
- 
- <img  width="500" height="320" align="left" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="550"/>
- 
- <img align="right" width="420" height="430" src="https://github-readme-stats.vercel.app/api/top-langs?username=super-duper-sp&show_icons=true&locale=en&layout=compact" alt=“super-duper-sp”/>
- 
-</div>
- 
+
 
 
  
 
 <div align="center">
+<hr>
 <img align="center"src="https://activity-graph.herokuapp.com/graph?username=super-duper-sp&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true" align="center" />
 <hr>
 </div>
