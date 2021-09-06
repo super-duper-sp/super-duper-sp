@@ -61,7 +61,7 @@
 
 
 <a href="https://github.com/super-duper-sp">
-   <img width="500" height="350" align="left" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true"  alt="CoDiNg RocKs"  width="550"/>
+   <img width="500" height="350" align="left" src="https://github.com/super-duper-sp/super-duper-sp/blob/f1d2899a2c4ccba90e1a690a796c86f9cc1195f6/dev-working_rounded.gif"  alt="CoDiNg RocKs"  width="550"/>
  
  <img align="right" width="400" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=super-duper-sp&show_icons=true&locale=en&layout=compact" alt=“super-duper-sp”/>
 </a>
