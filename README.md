@@ -13,7 +13,7 @@
 <hr>
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
+  <img align="right" alt="GIF" src="https://github.com/super-duper-sp/super-duper-sp/blob/main/c.gif" width="500" height="350" />
 <h3 align="center">A Passionate Self Taught Programmer From India</h3>
 
 
