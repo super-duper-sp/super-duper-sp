@@ -13,7 +13,7 @@
 <hr>
 
 
-  <img align="right" alt="GIF" src="https://github.com/super-duper-sp/super-duper-sp/blob/main/c.gif" width="500" height="350" />
+  <img align="right" height="350" width="450" alt="GIF" src="https://github.com/super-duper-sp/super-duper-sp/blob/main/animated.gif" />
 <h3 align="center">A Passionate Self Taught Programmer From India</h3>
 
 
@@ -24,6 +24,7 @@
 
 - 📫 How to reach me **shubham15362@gmail.com**
 - My Website **www.shubhampatidar.live**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
