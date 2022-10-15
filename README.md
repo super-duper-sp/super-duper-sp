@@ -13,14 +13,15 @@
 <hr>
 
 
-  <img align="right" height="350" width="450" alt="GIF" src="https://github.com/super-duper-sp/super-duper-sp/blob/main/animated.gif" />
+  <img align="right" width="520" alt="GIF" src="https://github.com/super-duper-sp/super-duper-sp/blob/main/animated.gif" />
 <h3 align="center">A Passionate Self Taught Programmer From India</h3>
 
 
 - 🔭 I’m currently working on 
   **Portfolio Website**
+
 **And**
-  **Startup Website (self)**
+  
 
 - 📫 How to reach me **shubham15362@gmail.com**
 - My Website **www.shubhampatidar.live**
@@ -49,22 +50,21 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<hr>
+
 </p>
-
-
-
+<div >
+ 
 ### ✨ GitHub Stats
 
-<a href="https://github.com/super-duper-sp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=super-duper-sp&show_icons=true&theme=dracula&count_private=true" />
-  <img align="right" width="400" height="230" src="http://github-readme-streak-stats.herokuapp.com?user=super-duper-sp&theme=merko&hide_border=true&sideNums=DD2727&currStreakLabel=DD2727" alt=“super-duper-sp” />
-</a>
-<br/>
+<div align="left" href="https://github.com/super-duper-sp">
+  <img  align="left" height="198em" src="https://github-readme-stats.vercel.app/api?username=super-duper-sp&show_icons=true&theme=dracula&count_private=true" />
+ 
+  <img  align="right" height="198" src="http://github-readme-streak-stats.herokuapp.com?user=super-duper-sp&theme=merko&hide_border=true&sideNums=DD2727&currStreakLabel=DD2727" alt=“super-duper-sp” />
+</div>
 
 
-</a>
-<br/>
+
+
 
 
 
@@ -76,4 +76,4 @@
 I love connecting with different people so if you want to say hi, <br> I'll be happy to meet you more! 😊
 <hr>
 </div>
-
+</div>
