@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=super-duper-sp&label=Profile%20views&color=129e00&style=plastic" alt="super-duper-sp" /> </p>
 
 
-- 👨‍💻 You can also check out my portfolio at [https://shubham.up.railway.app/](https://shubham.up.railway.app/)
+- 👨‍💻 You can also check out my portfolio at [https://shubhampatidar.vercel.app/](https://shubhampatidar.vercel.app/)
 
 - 📫 How to reach me **shubham15362@gmail.com**
 
